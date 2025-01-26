@@ -1,0 +1,24 @@
+{
+  "name": "gitbot",
+  "version": "1.0.0",
+  "description": "1010101",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya1416/gitbot.git"
+  },
+  "author": "Aditya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya1416/gitbot/issues"
+  },
+  "homepage": "https://github.com/Aditya1416/gitbot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.27.0"
+  }
+}
